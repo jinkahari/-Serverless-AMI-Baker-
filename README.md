@@ -1,2 +1,2 @@
-# -Serverless-AMI-Baker-
+# Serverless-AMI-Baker
  Serverless-AMI-backup
